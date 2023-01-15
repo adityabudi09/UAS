@@ -1,7 +1,11 @@
 # Program Sederhana GUI Bangun Datar
 
+link youtube
+
+https://youtu.be/sZIwORUHItI
+
 Di sini saya akan mencoba menjelaskan bagaimana tahap pembuatan GUI sederhana untuk
-menghitung bangun datar seperti Persegi, Persegi Panjang, dan Lingkaran. Jadi ada beberapa
+menghitung bangun datar seperti Segitiga. Jadi ada beberapa
 metode terkait yang akan kita gunakan seperti,
 
             • Inheritance
